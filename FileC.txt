@@ -1,2 +1,4 @@
 This is FileC
 2nd lined added to FileC
+Squash line added
+sfs
